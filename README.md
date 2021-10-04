@@ -1,1 +1,2 @@
-# plant-watering-system-
+# plant-watering-system
+This project consists of creating an automatic watering device for plants, which triggers a water supply only when needed. Usable for a single plant or for a small plantation, this system could possibly be replicated at different scales. It will allow you to maintain your plants in your absence, or to manage the growth of species particularly sensitive to humidity by establishing fine adjustments.
